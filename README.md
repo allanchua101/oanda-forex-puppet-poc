@@ -1,6 +1,6 @@
 # oanda-forex-puppet-poc
 
-A 5 minute introduction to web scrapping using Puppeteer and how to perform fundamental operations using NodeJS.
+A 5 minute introduction to web scrapping using Puppeteer.
 
 ### How it works
 
