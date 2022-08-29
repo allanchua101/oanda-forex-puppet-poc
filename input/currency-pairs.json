@@ -1,0 +1,8 @@
+{
+  "CURRENCY_PAIRS": [
+    { "src": "SGD", "dst": "USD" },
+    { "src": "SGD", "dst": "EUR" },
+    { "src": "SGD", "dst": "CAD" },
+    { "src": "SGD", "dst": "PHP" }
+  ]
+}

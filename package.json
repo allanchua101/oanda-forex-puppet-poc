@@ -1,0 +1,24 @@
+{
+  "name": "oanda-forex-puppet-poc",
+  "version": "1.0.0",
+  "description": "Quick POC for a Oanda FX puppet.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanchua101/oanda-forex-puppet-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanchua101/oanda-forex-puppet-poc/issues"
+  },
+  "homepage": "https://github.com/allanchua101/oanda-forex-puppet-poc#readme",
+  "dependencies": {
+    "json-2-csv": "^3.17.1",
+    "puppeteer": "^17.0.0"
+  }
+}

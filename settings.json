@@ -1,0 +1,4 @@
+{
+    "fxPageUrl": "https://www.oanda.com/currency-converter/en/",
+    "fxOutputSelector": "#cc-main-conversion-block > div > div.MuiGrid-root.MuiGrid-container.MuiGrid-justify-xs-space-between > div:nth-child(3) > div:nth-child(2) > div.MuiFormControl-root.MuiTextField-root.cc25.MuiFormControl-marginNormal.MuiFormControl-fullWidth > div > input"
+}
